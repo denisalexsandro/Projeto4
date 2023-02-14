@@ -5,7 +5,7 @@
 
 <h2>📍 1-Quantos circuitos de Formula 1 temos no Brasil e onde esses circuitos ficam localizados?</h2> </br>
 <p>R: Dois circuitos e estão localizados em São Paulo e no Rio de Janeiro. </p> </br>
-<img alt="grafico" src="https://github.com/denisalexsandro/Projeto4/blob/main/Projeto4/graficos/LocalidadeCircuito.png?raw=true">
+<img alt="grafico" src="https://github.com/denisalexsandro/Projeto4/blob/main/Projeto4/graficos/CircuitoBrasil.png?raw=true">
 
 <h2>📍 2-Quantos pilotos são brasileiros?</h2>
 <p>R: São 12 pilotos.</p> </br>
@@ -16,11 +16,11 @@
 
 <h2>📍 3-Quais são as cinco maiores pontuações feitas em uma corrida?</h2>
 <p>R: São elas 38, 35,35,32,29.</p> </br>
-<img alt="grafico" src="">
+<img alt="grafico" src="https://github.com/denisalexsandro/Projeto4/blob/main/Projeto4/graficos/5MaioresPontuacoes.png?raw=true">
 
 <h2>📍 4-Quantos circuitos de corrida tem no Canadá?</h2>
 <p>R: São três, sendo em Montreal, Ontario e Quebec. </p> </br>
-<img alt="grafico" src="">
+<img alt="grafico" src="https://github.com/denisalexsandro/Projeto4/blob/main/Projeto4/graficos/CircuitoCanada.png?raw=true">
 
 <h2>Print das respostas 3 e 4:</h2>
 <img alt="print-prompt-geral" src="https://github.com/denisalexsandro/Projeto4/blob/main/Projeto4/Prints/Pergunta%203%20e%204.jpg?raw=true">
